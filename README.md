@@ -1,6 +1,6 @@
 # Python Cryptography Tool
 
-This is an application/library that uses various encryption and decryption algorithmsto either encrypt a plaintext or bits/bytes message or decrypt a cipher message. It also includes benchmarks for all the algorithms used in the application.
+This is an application/library that uses various encryption and decryption algorithms to either encrypt a plaintext or bits/bytes message or decrypt a cipher message. It also includes benchmarks for all the algorithms used in the application.
 
 # Usage
 Just run app.py
